@@ -57,7 +57,7 @@ const Hotel = () => {
             <Cards key={[data.id]}>
               <div className="box">
                 <h3 className="Hotel">{data.description}</h3>
-                <h3 password></h3>
+                <h3 password>username : ukhti, password: redhat12345!@#$%</h3>
                 <div>
                   <div className="discount">
                     {/* <p>{price}</p> */}
